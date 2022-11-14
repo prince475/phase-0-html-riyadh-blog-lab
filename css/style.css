@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
 
 html, body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   height: 100%;
   min-height: 100%;
 }
@@ -37,12 +38,15 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color:darkgoldenrod;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-size: 1.0em;
   margin-top: .5em;
+  color: chocolate;
 }
 
 img {
@@ -53,6 +57,9 @@ img {
 
 p {
   font-size: 1em;
+  font-family: fantasy;
+  font-style: italic;
+  color: blue;
 }
 
 a {
